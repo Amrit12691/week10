@@ -18,3 +18,4 @@ public class Movie {
     public String getGenre() { return genre; }
     public String getPoster() { return poster; }
 }
+:
